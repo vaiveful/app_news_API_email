@@ -1,7 +1,7 @@
 import requests
 from send_email_function import send_email
 
-api_key = "ca75c583631848aaaaf2f92210c4923f"
+api_key = "XXXX"
 url = ("https://newsapi.org/v2/top-headlines?"
        "sources=techcrunch&apiKey=ca75c583631848"
        "aaaaf2f92210c4923f")
