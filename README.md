@@ -1,0 +1,1 @@
+This app uses API to access the news about a particular topic and sends them by email. 
